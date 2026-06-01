@@ -1,3 +1,5 @@
+# Librería para trabajar con heaps (montículos)
+# Permite obtener rápidamente el elemento más pequeño
 import heapq
 
 # Función que mezcla varias listas ordenadas
